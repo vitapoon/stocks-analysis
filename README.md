@@ -15,11 +15,20 @@ In order to make the code runs more efficient, I created a new variable (tickerI
 ![2018_updated time](https://user-images.githubusercontent.com/71739110/95020581-99ced300-069e-11eb-8f40-8fc4956f5f98.png)
 
 #### Refactor Code
+![Refactor Code](https://user-images.githubusercontent.com/71739110/95021142-d223e080-06a1-11eb-83db-c7cc5408bff1.png)
 
 #### Original Code
+![Original Code](https://user-images.githubusercontent.com/71739110/95021141-d223e080-06a1-11eb-9d5d-612b2c42a184.png)
 
 ##  Summary
 
-### There is a detailed statement on the advantages and disadvantages of refactoring code in general 
+### The advantages and disadvantages of refactoring code in general
 
-### There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script 
+The advantage of refactoring code can make program runs faster, more efficient. the disadvantages is it costs time to refactor the code.
+
+### The advantages and disadvantages of the original and refactored VBA script 
+
+The advantage of the refactored VBA script is we can save most of the Original script and just reactor parts of the code. The disadvantage is sometime it will cause confustion between the original srcipt and refactor scrpt, then cause some bugs. 
+
+
+
