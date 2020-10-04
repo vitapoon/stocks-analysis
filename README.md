@@ -6,7 +6,17 @@ The Purpose of this project is to refactor the code to loop through all the data
 ##  Results
 In order to make the code runs more efficient, I created a new variable (tickerIndex) and set this variable tickerIndex to access the correct index across the four different arrays, the tickers array and the three output arrays tickerVolumes, tickerStartingPrices, and tickerEndingPrices. By doing it in this way, the analysis can complete faster than before. Below please find the Refactor code, Original code and the different run times:
 
+#### Here are the run times with original code
+![2017_original time](https://user-images.githubusercontent.com/71739110/95020578-99363c80-069e-11eb-8838-7844248b8a29.png)
+![2018_original time](https://user-images.githubusercontent.com/71739110/95020580-99ced300-069e-11eb-8095-8b22ae529259.png)
 
+#### Here are the run times with refactored code
+![2017_updated time](https://user-images.githubusercontent.com/71739110/95020579-99ced300-069e-11eb-9674-77bb2b0a1c46.png)
+![2018_updated time](https://user-images.githubusercontent.com/71739110/95020581-99ced300-069e-11eb-8f40-8fc4956f5f98.png)
+
+#### Refactor Code
+
+#### Original Code
 
 ##  Summary
 
